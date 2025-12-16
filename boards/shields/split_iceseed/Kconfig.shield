@@ -1,0 +1,4 @@
+config SHIELD_SPLIT_ICESEED_LEFT
+    def_bool $(shields_list_contains,split_iceseed_left)
+config SHIELD_SPLIT_ICESEED_RIGHT
+    def_bool $(shields_list_contains,split_iceseed_right)

@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: split_iceseed
+name: split_iceseed
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - split_iceseed_left
+  - split_iceseed_right
